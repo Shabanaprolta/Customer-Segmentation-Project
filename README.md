@@ -1,4 +1,4 @@
-# Customer-Segmentation-Project
+# Customer-Segmentation- ML Project
 📊 Customer Segmentation Project – KMeans + Excel Dashboard
 
 This project combines Machine Learning (KMeans clustering) with an interactive Excel dashboard to analyze customer segmentation in a retail/e-commerce business. It demonstrates how Python ML models and Excel BI dashboards can work together to generate actionable business insights.
